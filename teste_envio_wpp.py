@@ -8,3 +8,4 @@ for numero in numeros:
     r = requests.get(code)
     print(r.url)
     time.sleep(15)
+    
